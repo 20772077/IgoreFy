@@ -24,4 +24,5 @@ IgoreFy - это музыкальный стриминговый сервис, �
 внутри неё располагается папка aFileStorage, в которой располагается две папки - для хранение аудиозаписей(songs) и обложек (albumCovers)
 
 Ссылка на GitHub: https://github.com/20772077/IgoreFy.git
-Ссылка на Google Disk: 
+
+Ссылка на Google Disk: https://drive.google.com/file/d/1mQ_ZTTv63WRZxPjZejH1azASZ8ouKZoA/view?usp=drive_link 
