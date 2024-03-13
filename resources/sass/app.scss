@@ -1,0 +1,121 @@
+//
+body {
+    overflow: scroll;
+  }
+  .box {
+    width: 1085px;
+  }
+  
+  .box .group {
+    /*position: fixed;*/
+    width: 1085px;
+    top: 0;
+    left: 0;
+  }
+  
+  .box .overlap {
+    /*position: relative;*/
+  }
+  
+  .box .group-wrapper {
+    /*position: absolute;*/
+    width: 1085px;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+  }
+  
+  .box .div {
+    /*position: relative;*/
+    width: 622px;
+    height: 80px;
+    left: 232px;
+  }
+  
+  .box .overlap-group-wrapper {
+    /*position: absolute;*/
+    width: 127px;
+    height: 30px;
+    top: 10px;
+    left: 495px;
+  }
+  
+  .box .overlap-group {
+    /*position: relative;*/
+    width: 125px;
+    height: 30px;
+    background-color: #00844d;
+    border-radius: 30px;
+  }
+  
+  .box .input-song-number {
+    /*position: absolute;*/
+    width: 95px;
+    height: 25px;
+    top: 0;
+    left: 12px;
+    font-family: "Inter-BoldItalic", Helvetica;
+    font-weight: 700;
+    font-style: italic;
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    border: none;
+  }
+  
+  .box .i-g-o-r-e-f-y {
+   /*position: absolute;*/
+    width: 415px;
+    top: 10px;
+    left: 80px;
+    font-family: "Inter-BoldItalic", Helvetica;
+    font-weight: 700;
+    font-style: italic;
+    color: #00844d;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .box .rectangle {
+    /*position: absolute;*/
+    width: 80px;
+    height: 80px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .box .overlap-wrapper {
+    /*position: absolute;*/
+    width: 320px;
+    height: 30px;
+    top: 130px;
+    left: 232px;
+  }
+  
+  .box .div-wrapper {
+    /*position: relative;*/
+    width: 320px;
+    height: 30px;
+    background-color: #00844d;
+    border-radius: 30px;
+  }
+  
+  .box .text-wrapper {
+    /*position: absolute;*/
+    width: 320px;
+    top: 0;
+    left: 0;
+    font-family: "Inter-BoldItalic", Helvetica;
+    font-weight: 700;
+    font-style: italic;
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
